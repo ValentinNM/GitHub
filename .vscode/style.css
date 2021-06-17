@@ -1,0 +1,54 @@
+ul {
+    list-style-type: none;
+}
+
+body {
+    margin: 0px;
+}
+
+.header {
+    grid-area: header;
+    padding: 50px;
+    border: 50px;
+    margin: none;
+    background: #1abc9c;
+    color: white;
+}
+
+.buton_color {
+    color: white;
+}
+
+.follow {
+    grid-area: main;
+}
+
+.Instagram {
+    background-color: purple;
+    border-radius: 15px;
+}
+
+.Facebook {
+    background-color: Blue;
+    border-radius: 15px;
+}
+
+.Youtube {
+    background-color: red;
+    border-radius: 15px;
+}
+
+.content {
+    padding-left: 20px;
+    color: #1abc9c;
+}
+
+.footer {
+    position: absolute;
+    padding: 50px;
+    bottom: 0;
+    width: 100%;
+    background: #1abc9c;
+    margin: none;
+    bottom: 0;
+}
